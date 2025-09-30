@@ -3,10 +3,10 @@
 1. Download GitHub to operating system 
 2. Create an account on GitHub
 3. ## Create a new repository
-Click the (+) icon to create new repository in the right top and then click (New Repository). Name the new repository and add readme file.
+Click the (+) icon to create new repository in the right top and then click (New Repository). Name the new repository and add readme file
 4. ## Clone repository
 Click Code button and then HTTPS, copy rhe url of new repository. Go to terminal and chooseany folder and git clone the repository. 
-Type cd (name of the folder) and then type ls to see the new repository was created and cd (name of the repository) into new folder.
+Type cd (name of the folder) and then type ls to see the new repository was created and cd (name of the repository) into new folder
 5. ## Commits and Pushes
 Find the readme file and with right click open it with any text editer.
 Start adding text once done push the changes to GitHub. 
