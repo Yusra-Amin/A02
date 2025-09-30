@@ -26,7 +26,8 @@ Refresh GitHub page to chech if changes updated.
 # Definitions
 Branch
 : Saparate line of development in a repository
-###Clone: Creating local copy of a GitHub repository on a computer
+Clone
+: Creating local copy of a GitHub repository on a computer
 ###Commit: Saving changes with discriptive messages
 ###Fetch: Downloading updates from a remote repository without merging them
 ###Git: A version control that tracks changes in code
