@@ -12,12 +12,11 @@ Type cd (name of the folder) and then type ls to see the new repository was crea
 5. ## Commits and Pushes
 Find the readme file and with right click open it with any text editer.
 Start adding text once done push the changes to GitHub
-'''Type 
+Type:
 git init 
 git add. to add readme file
 git commit -m "Updated readme file" to commit changes
 git push origin main. to push changes
-'''
 Refresh GitHub page to chech if changes updated.
 
 
