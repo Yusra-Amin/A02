@@ -24,15 +24,15 @@ Refresh GitHub page to chech if changes updated.
 
 
 # Definitions
-Branch: Saparate line of development in a repository
-Clone: Creating local copy of a GitHub repository on a computer
-Commit: Saving changes with discriptive messages
-Fetch: Downloading updates from a remote repository without merging them
-Git: A version control that tracks changes in code
-GitHub: A cloud platform for hosting Git repository and collaborating
-Merge: Combining changes from different branches into one branch
-Merge Conflict: A problem that occure whene Git cannot automatically merge changes
-Push: Sending committed changes from local to the remote reposiytory 
-Pull: Fetching and merging changes from a remote repository to local one
-Remote: The online version of repository
-Repository: A project folder tracked by git that contains files, history, and branches
+###Branch: Saparate line of development in a repository
+###Clone: Creating local copy of a GitHub repository on a computer
+###Commit: Saving changes with discriptive messages
+###Fetch: Downloading updates from a remote repository without merging them
+###Git: A version control that tracks changes in code
+###GitHub: A cloud platform for hosting Git repository and collaborating
+###Merge: Combining changes from different branches into one branch
+###Merge Conflict: A problem that occure whene Git cannot automatically merge changes
+###Push: Sending committed changes from local to the remote reposiytory 
+###Pull: Fetching and merging changes from a remote repository to local one
+###Remote: The online version of repository
+###Repository: A project folder tracked by git that contains files, history, and branches
