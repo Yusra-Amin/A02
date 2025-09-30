@@ -28,13 +28,13 @@ Refresh GitHub page to chech if changes updated.
 : Saparate line of development in a repository
 2. Clone
 : Creating local copy of a GitHub repository on a computer
-###Commit: Saving changes with discriptive messages
-###Fetch: Downloading updates from a remote repository without merging them
-###Git: A version control that tracks changes in code
-###GitHub: A cloud platform for hosting Git repository and collaborating
-###Merge: Combining changes from different branches into one branch
-###Merge Conflict: A problem that occure whene Git cannot automatically merge changes
-###Push: Sending committed changes from local to the remote reposiytory 
-###Pull: Fetching and merging changes from a remote repository to local one
-###Remote: The online version of repository
-###Repository: A project folder tracked by git that contains files, history, and branches
+3. Commit: Saving changes with discriptive messages
+4. Fetch: Downloading updates from a remote repository without merging them
+5. Git: A version control that tracks changes in code
+6. GitHub: A cloud platform for hosting Git repository and collaborating
+7. Merge: Combining changes from different branches into one branch
+8. Merge Conflict: A problem that occure whene Git cannot automatically merge changes
+9. Push: Sending committed changes from local to the remote reposiytory 
+10. Pull: Fetching and merging changes from a remote repository to local one
+11. Remote: The online version of repository
+12. Repository: A project folder tracked by git that contains files, history, and branches
