@@ -37,3 +37,8 @@ Refresh GitHub page to chech if changes updated.
 10. Pull: Fetching and merging changes from a remote repository to local one
 11. Remote: The online version of repository
 12. Repository: A project folder tracked by git that contains files, history, and branches
+
+
+
+# Work cite 
+https://nanthony007.medium.com/github-tutorial-for-beginners-7efb608a7413 
