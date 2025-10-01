@@ -1,6 +1,6 @@
 # A02Tutorial
 # Git and GitHub tutorial
-1. Download Git 
+1. Download Git: https://git-scm.com/downloads
 2. Create an account on GitHub
 
 
@@ -26,7 +26,7 @@
 5. Refresh GitHub page to check if changes updated.
 
 # WebStorm tutorial
-1. Download WebStorm
+1. Download WebStorm: https://www.jetbrains.com/webstrorm/download/?section=windows
 
 ## Creat projrct
 1. Creat fine and name it
@@ -64,6 +64,6 @@
 
 # Work cite 
 1. Medium: https://nanthony007.medium.com/github-tutorial-for-beginners-7efb608a7413 
-2. Slides from class
-3. JetBrains webstrorm: https://www.jetbrains.com/webstrorm/
-
+2. JetBrains webstrorm: https://www.jetbrains.com/webstrorm/
+3. Git official website: https://git-scm.com/
+4. Class slides 
